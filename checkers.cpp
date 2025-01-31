@@ -227,7 +227,7 @@ int main()
         }
     }
 
-    std::cout << "Welcome to Enhanced Checkers! Type 'stop' anytime to end the game.\n";
+    std::cout << "Welcome to Checkers! Type 'stop' anytime to end the game.\n";
     while (true)
     {
         printBoard(board);
